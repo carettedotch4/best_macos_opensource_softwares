@@ -45,7 +45,7 @@ The goal of this repository is to gather the most useful, secure, and well-maint
 | **macUSB** | Download. Flash. Boot. The all-in-one USB creator for Mac. | [View Repository](https://github.com/Kruszoneq/macUSB) |
 | **Docky** | A customizable Dock replacement for macOS with widgets, app folders, and a window switcher. | [View Repository](https://github.com/josejuanqm/docky) |
 | **Plumb** | A lightweight macOS window manager that auto-centers and auto-tiles your apps. | [View Repository](https://github.com/Lv-0/plumb) |
-| **Capso** | Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI. | [View Repository]([https://github.com/Lv-0/plumb](https://github.com/lzhgus/Capso)) |
+| **Capso** | Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI. | [View Repository](https://github.com/lzhgus/Capso) |
 ---
 
 ## 🤝 How to Contribute
