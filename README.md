@@ -47,7 +47,7 @@ The goal of this repository is to gather the most useful, secure, and well-maint
 | **Plumb** | A lightweight macOS window manager that auto-centers and auto-tiles your apps. | [View Repository](https://github.com/Lv-0/plumb) |
 | **Capso** | Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI. | [View Repository](https://github.com/lzhgus/Capso) |
 | **Termini** | A micro terminal for your menu bar. Nothing more. | [View Repository](https://github.com/ModernProgrammer/Termini) |
-
+| **MacPacker** | Browse archives like folders. Preview files without extracting. Drag out only the ones you need.. | [View Repository](https://github.com/ModernProgrammer/Termini](https://github.com/sarensw/MacPacker) |
 
 ---
 
