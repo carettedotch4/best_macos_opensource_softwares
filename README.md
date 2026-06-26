@@ -43,6 +43,7 @@ The goal of this repository is to gather the most useful, secure, and well-maint
 | App Name | Description | Link |
 |---|---|---|
 | **macUSB** | Download. Flash. Boot. The all-in-one USB creator for Mac. | [View Repository](https://github.com/Kruszoneq/macUSB) |
+| **Docky** | A customizable Dock replacement for macOS with widgets, app folders, and a window switcher. | [View Repository](https://github.com/josejuanqm/docky) |
 
 ---
 
